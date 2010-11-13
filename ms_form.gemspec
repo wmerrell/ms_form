@@ -30,6 +30,7 @@ Gem::Specification.new do |s|
      "lib/tbl_form/engine.rb",
      "lib/tbl_form/form_builder.rb",
      "lib/tbl_form/form_helper.rb",
+     "ms_form.gemspec",
      "test/helper.rb",
      "test/test_ms_form.rb"
   ]
