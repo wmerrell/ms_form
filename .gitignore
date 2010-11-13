@@ -13,6 +13,17 @@ tmtags
 ## VIM
 *.swp
 
+## KOMODO
+.komodotools
+*.komodoproject
+*.kpf
+
+## RAILS
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/**/*
+
 ## PROJECT::GENERAL
 coverage
 rdoc

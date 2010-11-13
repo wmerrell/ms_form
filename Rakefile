@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "ms_form"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{Fancy Form Handling.}
+    gem.description = %Q{Wraps the standard form handling functions with additional formatting and features.}
     gem.email = "will@morelandsolutions.com"
     gem.homepage = "http://github.com/wmerrell/ms_form"
     gem.authors = ["wmerrell"]
